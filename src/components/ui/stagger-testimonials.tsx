@@ -10,142 +10,142 @@ const testimonials = [
   {
     tempId: 0,
     testimonial:
-      "Stride Collective изменил мою жизнь. От попыток пробежать 5 минут до первого марафона — это сообщество верило в меня, когда я сам в себя не верил.",
-    by: "Сергей Иванов, марафонец",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=SergeyIvanov&backgroundColor=3b82f6&textColor=ffffff",
+      "«Импульс танца» изменил жизнь моей дочери. Она пришла скромным ребёнком, а теперь выступает на сцене с такой уверенностью, что у меня слёзы на глазах каждый раз!",
+    by: "Анна Соколова, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AnnaSokolova&backgroundColor=3b82f6&textColor=ffffff",
   },
   {
     tempId: 1,
     testimonial:
-      "Я боялась присоединиться к беговой группе, но Stride Collective встретил меня с распростертыми объятиями. Теперь у меня друзья на всю жизнь и уверенность достигать любых целей.",
-    by: "Марина Петрова, трейлраннер",
+      "Я боялась начинать танцевать в 30 лет, но педагоги встретили меня с такой теплотой! Уже через месяц я влюбилась в занятия и не пропускаю ни одного.",
+    by: "Марина Петрова, взрослая группа",
     imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MarinaPetrova&backgroundColor=10b981&textColor=ffffff",
   },
   {
     tempId: 2,
     testimonial:
-      "Энергетика на пробежках Stride Collective заразительна. Быстрый ты или медленный — все болеют за тебя. Здесь не соревнование, здесь сообщество.",
-    by: "Анна Козлова, любитель 5К",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AnnaKozlova&backgroundColor=8b5cf6&textColor=ffffff",
+      "Атмосфера в студии — это что-то особенное. Дети приходят на занятия с радостью, педагоги горят своим делом. Мой сын за полгода стал совершенно другим человеком!",
+    by: "Дмитрий Козлов, папа ученика",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DmitriyKozlov&backgroundColor=8b5cf6&textColor=ffffff",
   },
   {
     tempId: 3,
     testimonial:
-      "После лет одиночных пробежек Stride Collective стал для меня открытием. Групповые тренировки помогли выйти на личные рекорды, о которых я и мечтать не мог.",
-    by: "Дмитрий Смирнов, спринтер",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DmitrySmirnov&backgroundColor=ef4444&textColor=ffffff",
+      "Профессионализм преподавателей на высшем уровне. Моя дочь занимается уже два года, участвует в конкурсах и постоянно берёт призовые места. Очень гордимся!",
+    by: "Светлана Иванова, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=SvetlanaIvanova&backgroundColor=ef4444&textColor=ffffff",
   },
   {
     tempId: 4,
     testimonial:
-      "Stride Collective научил меня, что бег — это не просто тренировка. Это терапия, дружба и приключение в одном флаконе. Этот клуб спас мое ментальное здоровье.",
-    by: "Елена Новикова, осознанный бегун",
+      "«Импульс танца» — это не просто студия, это семья. Дети здесь дружат, поддерживают друг друга и растут вместе. Лучшее место для ребёнка в Новосибирске!",
+    by: "Елена Новикова, мама ученицы",
     imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=ElenaNovikova&backgroundColor=f59e0b&textColor=ffffff",
   },
   {
     tempId: 5,
     testimonial:
-      "От дивана до 10К за 6 месяцев с поддержкой Stride Collective. Они принимают тебя таким, какой ты есть, и помогают понять, куда ты можешь дойти. Настоящая магия.",
-    by: "Алексей Морозов, история успеха",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlexeyMorozov&backgroundColor=6366f1&textColor=ffffff",
+      "Записала дочку в 5 лет, и это было лучшее решение в нашей жизни. Танцы дали ей пластику, координацию и безграничную уверенность в себе. Спасибо педагогам!",
+    by: "Ольга Морозова, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=OlgaMorozova&backgroundColor=6366f1&textColor=ffffff",
   },
   {
     tempId: 6,
     testimonial:
-      "Рассветные пробежки со Stride Collective — это духовный опыт. Есть что-то мощное в том, чтобы двигаться вместе, пока мир просыпается вокруг нас.",
-    by: "Айгуль Рахимова, рассветный патруль",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AigulRahimova&backgroundColor=ec4899&textColor=ffffff",
+      "Я занимаюсь в группе для взрослых уже год. Это лучшая инвестиция в себя — и физическая форма, и отличное настроение после каждого занятия. Рекомендую всем!",
+    by: "Алексей Рахимов, взрослая группа",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlexeyRahimov&backgroundColor=ec4899&textColor=ffffff",
   },
   {
     tempId: 7,
     testimonial:
-      "Я вступила в Stride Collective после переезда в новый город. Нашла не только беговое племя, но и настоящую семью. Движение здесь — это образ жизни.",
-    by: "Ольга Ким, строитель сообщества",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=OlgaKim&backgroundColor=06b6d4&textColor=ffffff",
+      "Переехали в Новосибирск и сразу нашли «Импульс танца». Дочка влилась в коллектив мгновенно — педагоги очень внимательны к каждому ребёнку. Счастливы, что нашли эту студию!",
+    by: "Наталья Ким, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NatalyaKim&backgroundColor=06b6d4&textColor=ffffff",
   },
   {
     tempId: 8,
     testimonial:
-      "Stride Collective празднует каждую победу, даже самую маленькую. Мой первый километр ощущался как олимпийское золото с этой командой, болеющей за меня.",
-    by: "Наталья Соколова, герой первого км",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NataliyaSokolova&backgroundColor=f97316&textColor=ffffff",
+      "Первое выступление сына на сцене — это незабываемый момент для всей семьи. Педагоги так тщательно готовят детей, что они выходят на сцену без тени страха.",
+    by: "Михаил Соловьёв, папа ученика",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MikhailSolovyev&backgroundColor=f97316&textColor=ffffff",
   },
   {
     tempId: 9,
     testimonial:
-      "Тренировочные планы в Stride Collective невероятные. Я прошел путь от еле добегающего 5К до квалификации на Бостонский марафон всего за два года.",
-    by: "Михаил Волков, Бостонский квалификант",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MikhailVolkov&backgroundColor=84cc16&textColor=ffffff",
+      "Программа обучения просто великолепна — всё структурировано, дети развиваются планомерно. Видно, что педагоги вкладывают душу в каждое занятие. Огромная благодарность!",
+    by: "Кристина Волкова, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=KristinaVolkova&backgroundColor=84cc16&textColor=ffffff",
   },
   {
     tempId: 10,
     testimonial:
-      "Что я люблю в Stride Collective — это разнообразие. Бегуны всех возрастов, с разным опытом и способностями объединяются одной страстью.",
-    by: "София Родригес, чемпион разнообразия",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=SofiaRodriguez&backgroundColor=a855f7&textColor=ffffff",
+      "Танцы в «Импульсе» — это не просто хобби, это настоящая школа жизни. Дисциплина, командная работа, творчество. Сын стал более собранным и ответственным.",
+    by: "Тимур Асланов, папа ученика",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=TimurAslanov&backgroundColor=059669&textColor=ffffff",
   },
   {
     tempId: 11,
     testimonial:
-      "Дисциплина в Stride Collective не имеет равных. Когда знаешь, что твоя беговая семья ждет тебя — выходишь на пробежку несмотря ни на что.",
-    by: "Тимур Асланов, король постоянства",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=TimurAslanov&backgroundColor=059669&textColor=ffffff",
+      "Студия с душой! Педагоги помнят каждого ребёнка по имени, знают его особенности и находят индивидуальный подход. Дочь бежит на занятия с огромным удовольствием.",
+    by: "Нина Павлова, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NinaPavlova&backgroundColor=0ea5e9&textColor=ffffff",
   },
   {
     tempId: 12,
     testimonial:
-      "Трейловая группа Stride Collective открыла мне самые красивые места, о которых я и не знал. Бег стал моим способом исследовать мир.",
-    by: "Нина Павлова, исследователь троп",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NinaPavlova&backgroundColor=0ea5e9&textColor=ffffff",
+      "Начинали с нулём — теперь мой ребёнок занимает призовые места на городских конкурсах! Это заслуга потрясающих педагогов «Импульса танца».",
+    by: "Роман Ким, папа ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RomanKim&backgroundColor=dc2626&textColor=ffffff",
   },
   {
     tempId: 13,
     testimonial:
-      "Разговоры после пробежек в Stride Collective ценны не меньше самих пробежек. Мы решаем мировые проблемы километр за километром.",
-    by: "Роман Ким, философ бега",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RomanKim&backgroundColor=dc2626&textColor=ffffff",
+      "Никогда не думала, что начну танцевать во взрослом возрасте, но в «Импульсе» так комфортно и весело, что забываешь обо всех сомнениях. Теперь не представляю жизни без танцев!",
+    by: "Екатерина Орлова, взрослая группа",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=EkaterinaOrlova&backgroundColor=7c3aed&textColor=ffffff",
   },
   {
     tempId: 14,
     testimonial:
-      "Я никогда не думала, что стану бегуном, но дружелюбный к новичкам подход Stride Collective сделал это возможным. Теперь не представляю жизни без бега.",
-    by: "Екатерина Орлова, позднее цветение",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=EkaterinaOrlova&backgroundColor=7c3aed&textColor=ffffff",
+      "Качество обучения очень высокое, а цены вполне доступные. Дочка занимается с удовольствием, мы видим прогресс уже после первых месяцев. Отличная студия!",
+    by: "Даниил Пак, папа ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DaniilPak&backgroundColor=ea580c&textColor=ffffff",
   },
   {
     tempId: 15,
     testimonial:
-      "Поддержка при травмах в Stride Collective потрясающая. Когда я выбыл, они поддерживали мою мотивацию и помогли вернуться сильнее.",
-    by: "Даниил Пак, история возвращения",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DaniilPak&backgroundColor=ea580c&textColor=ffffff",
+      "«Импульс танца» — это праздник каждый день. Отчётные концерты — просто шедевры! Вся семья приходит болеть и уходит в полном восторге.",
+    by: "Раиса Грин, бабушка ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RaisaGrin&backgroundColor=16a34a&textColor=ffffff",
   },
   {
     tempId: 16,
     testimonial:
-      "Благотворительные забеги Stride Collective придают нашим километрам смысл. Мы бежим не только для себя — мы бежим, чтобы изменить мир к лучшему.",
-    by: "Раиса Грин, чемпион благотворительности",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RaisaGrin&backgroundColor=16a34a&textColor=ffffff",
+      "Три года в студии — и дочка уже сама помогает малышам на занятиях. Педагоги воспитывают не только танцоров, но и настоящих лидеров. Это бесценно!",
+    by: "Кирилл Вонг, папа ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=KirillVong&backgroundColor=2563eb&textColor=ffffff",
   },
   {
     tempId: 17,
     testimonial:
-      "Мастер-классы по технике в Stride Collective преобразили мою беговую форму. Я стал быстрее и забыл о травмах благодаря экспертному руководству.",
-    by: "Кирилл Вонг, перфекционист формы",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=KirillVong&backgroundColor=2563eb&textColor=ffffff",
+      "Хореография здесь на очень высоком уровне. Постановки красивые, музыкальные, дети всегда выглядят великолепно на сцене. Горжусь своей дочерью!",
+    by: "Александра Фостер, мама ученицы",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlexandraFoster&backgroundColor=be185d&textColor=ffffff",
   },
   {
     tempId: 18,
     testimonial:
-      "Виртуальные забеги Stride Collective во время локдауна спасли мой рассудок. Даже когда мы не могли бегать вместе, мы оставались связаны как сообщество.",
-    by: "Александра Фостер, виртуальный воин",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlexandraFoster&backgroundColor=be185d&textColor=ffffff",
+      "Занимаюсь в «Импульсе» уже полгода. За это время похудела, улучшила осанку и нашла замечательных подруг. Танцы — лучшее, что я делала для себя!",
+    by: "Карина Мендес, взрослая группа",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=KarinaMendez&backgroundColor=0891b2&textColor=ffffff",
   },
   {
     tempId: 19,
     testimonial:
-      "Наставничество в Stride Collective меняет жизни. Опытные бегуны берут новичков под крыло и щедро делятся своей мудростью.",
-    by: "Карлос Мендес, благодарный ученик",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=CarlosMendez&backgroundColor=0891b2&textColor=ffffff",
+      "Сын пришёл застенчивым, а теперь выходит на сцену первым. Педагоги «Импульса танца» умеют раскрыть каждого ребёнка. Это настоящий талант — учить с душой!",
+    by: "Виктория Степанова, мама ученика",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=VictoriaStefanova&backgroundColor=7c3aed&textColor=ffffff",
   },
 ]
 

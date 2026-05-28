@@ -7,34 +7,34 @@ import SmoothScrollHero from "@/components/ui/smooth-scroll-hero"
 
 export default function Index() {
   const missionStatement =
-    "В Stride Collective мы верим: движение — это не просто выбор, это образ жизни. Рожденные из духа бегового сообщества, мы объединяем бегунов со всего мира, которых связывает страсть к преодолению границ. Бежишь ли ты навстречу рассвету по городским улицам или покоряешь горные тропы — мы здесь, чтобы вдохновлять тебя. Наше сообщество живет ритмом шагов, силой упорства и радостью общих побед. Присоединяйся к нам — беги не только ради формы, но ради свободы, дружбы и чистой любви к движению."
+    "В студии «Импульс танца» мы верим: танец — это не просто движение, это язык души. Основанная в Новосибирске, наша студия объединяет детей и взрослых, которых связывает страсть к творчеству и самовыражению. Занимаешься ли ты впервые или уже выступаешь на сцене — мы здесь, чтобы раскрыть твой потенциал. Профессиональные педагоги, дружелюбная атмосфера и уникальная программа обучения помогут тебе найти себя в танце. Присоединяйся к нам — танцуй ради радости, свободы и вдохновения!"
 
   const timelineEntries = [
     {
       id: 1,
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-RJ3iTXUn5SUexF6nHMZYhMoQLNCboK.png",
-      alt: "Бегунья в художественном размытии движения",
-      title: "Каждый шаг важен",
+      image: "https://cdn.poehali.dev/projects/bd9e989e-d19a-418f-9e0e-036ff97f2339/files/e108e11e-d563-43d5-aded-39ae9db25451.jpg",
+      alt: "Первые шаги в танце",
+      title: "Первые шаги в танце",
       description:
-        "От первой пробежки вокруг дома до сотого марафона — у каждого бегуна своя история. В Stride Collective мы чествуем новичков, которые впервые шнуруют кроссовки. Твой темп не важен — важна твоя страсть. Чего ты ждешь?",
+        "Танец начинается с первых движений! Мы принимаем детей и взрослых без опыта и помогаем им открыть мир хореографии. Уникальная программа обучения адаптирована под каждого ученика — важна не подготовка, а желание танцевать.",
       layout: "left" as const,
     },
     {
       id: 2,
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-LN9OPh9hw0b9rwSPRSslHoejcfoKHe.png",
-      alt: "Бегун с решимостью и концентрацией",
-      title: "Найди свой ритм",
+      image: "https://cdn.poehali.dev/projects/bd9e989e-d19a-418f-9e0e-036ff97f2339/files/e108e11e-d563-43d5-aded-39ae9db25451.jpg",
+      alt: "Профессиональные педагоги студии",
+      title: "Профессиональные педагоги",
       description:
-        "Гонишься за личными рекордами или просто встречаешь рассвет на бегу — наше сообщество принимает каждого. От спринтеров до любителей медленного бега, от трейлраннеров до звезд стадиона — здесь найдется место для тебя. Вопрос один: чего ты ждешь?",
+        "Наши преподаватели — опытные хореографы с многолетней практикой. Они не просто учат технике, но и вдохновляют, поддерживают и помогают каждому ученику найти свой стиль. Здесь каждый найдет своего наставника.",
       layout: "right" as const,
     },
     {
       id: 3,
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-1FdGyjVpWQANGzsDWpoPIvF5SVI2za.png",
-      alt: "Бегун в динамике, демонстрирующий силу и грацию",
-      title: "Стань частью движения",
+      image: "https://cdn.poehali.dev/projects/bd9e989e-d19a-418f-9e0e-036ff97f2339/files/e108e11e-d563-43d5-aded-39ae9db25451.jpg",
+      alt: "Выступления и конкурсы",
+      title: "Сцена ждет тебя",
       description:
-        "Бег — это не только километры, это моменты. Утренние разговоры, общие трудности, коллективные победы. В Stride Collective ты вступаешь не просто в группу — ты становишься частью семьи. Зашнуруй кроссовки, выйди на старт и открой, на что ты способен. Серьезно, чего ты ждешь?",
+        "Танец — это не только занятия в зале, это яркие выступления, конкурсы и незабываемые эмоции. В «Импульсе танца» каждый ученик получает возможность выйти на сцену и почувствовать восторг аплодисментов. Стань частью нашей большой танцевальной семьи!",
       layout: "left" as const,
     },
   ]
@@ -51,7 +51,7 @@ export default function Index() {
 
         <div className="container mx-auto px-6 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-4xl md:text-6xl font-black tracking-wider mb-12 text-gray-900">НАША МИССИЯ</h2>
+            <h2 className="text-4xl md:text-6xl font-black tracking-wider mb-12 text-gray-900">О НАС</h2>
             <TextGradientScroll
               text={missionStatement}
               className="text-2xl md:text-3xl lg:text-4xl font-medium leading-relaxed text-gray-800"
@@ -70,9 +70,9 @@ export default function Index() {
         <div className="relative z-10">
           <div className="container mx-auto px-6 mb-16">
             <div className="text-center">
-              <h2 className="text-4xl md:text-6xl font-black tracking-wider mb-6 text-gray-900">МЫ РАДЫ КАЖДОМУ</h2>
+              <h2 className="text-4xl md:text-6xl font-black tracking-wider mb-6 text-gray-900">НАШИ НАПРАВЛЕНИЯ</h2>
               <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto">
-                У каждого бегуна свой путь. Вот лишь несколько историй из нашего открытого сообщества.
+                Для детей и взрослых — от первых шагов до выступлений на сцене.
               </p>
             </div>
           </div>
@@ -96,10 +96,10 @@ export default function Index() {
           >
             <h2 className="text-4xl md:text-6xl font-black tracking-wider text-gray-900 mb-6">
               Что говорят наши{" "}
-              <span className="bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">БЕГУНЫ</span>
+              <span className="bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">УЧЕНИКИ</span>
             </h2>
             <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed mb-12">
-              Реальные истории от реальных бегунов, которые нашли свой ритм вместе со Stride Collective.
+              Реальные истории от учеников и родителей, которые нашли себя в танце вместе с «Импульсом танца».
             </p>
           </motion.div>
 
